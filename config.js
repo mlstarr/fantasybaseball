@@ -1,2 +1,0 @@
-window.ANTHROPIC_API_KEY = 'sk-ant-YOUR-KEY-HERE';
-window.GOOGLE_SHEET_ID = '1TnyZPrijWYgdcz0J6TA-q99zVA6QlwAevXXBVm3Epro';
